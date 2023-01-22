@@ -24,7 +24,7 @@ img {
   --header-height: 4.5rem;
 
   /* cores */
-  --hue: 159;
+  --hue: -60;
   /* Modo de cor HSL */
   --base-color: hsl(var(--hue) 56% 57%);
   --base-color-second: hsl(var(--hue) 55% 58%);
